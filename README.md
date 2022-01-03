@@ -1,4 +1,4 @@
-## olá! Eu Sou Luan Pereira!
+## Olá! Eu Sou Luan Pereira!
 
 - 🔭 Hoje trabalho com Data Intelligence
 - 🌱 Estudanto React, NodeJs

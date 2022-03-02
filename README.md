@@ -17,5 +17,5 @@
   <img align="center" alt="Luan-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Luan-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Luan-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
-  <img align="center" alt="Luan-SQL" height="30" width="40" src="https://www.svgrepo.com/show/127001/sql-file-format.svg">
+  <img align="center" alt="Luan-SQL" height="30" width="40" src="https://icons.veryicon.com/png/o/application/designer-icon/sql-5.png">
 </div>

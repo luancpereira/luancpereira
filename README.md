@@ -1,7 +1,7 @@
 ## Olá! Eu Sou Luan Pereira!
 
 - 🔭 Hoje trabalho com Data Intelligence
-- 🌱 Estudanto React, NodeJs
+- 🌱 Estudanto Data Science
 
 <div align="center">
   <a href="https://github.com/luancpereira">
